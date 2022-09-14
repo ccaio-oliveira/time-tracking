@@ -16,7 +16,7 @@ body {
     margin: 100px auto;
 }
 
-@media (max-width: 390px){
+@media (max-width: 420px){
     #root{
         flex-direction: column;
         align-items: center;

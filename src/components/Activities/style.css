@@ -68,7 +68,7 @@
     background: hsl(43, 84%, 65%) url('../../../public/images/icon-self-care.svg') no-repeat right top;
 }
 
-@media (max-width: 375px){
+@media (max-width: 420px){
     #activities {
         flex-direction: column;
         width: 100%;

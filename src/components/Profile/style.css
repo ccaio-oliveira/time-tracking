@@ -49,7 +49,7 @@ a:hover {
     opacity: 1.0;
 }
 
-@media (max-width: 390px){
+@media (max-width: 420px){
 
     #profile {
         width: 100%;
