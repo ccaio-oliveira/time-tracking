@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: hsl(226, 43%, 10%);
+    color: #fff;
+    font-family: 'Rubik', sans-serif;
+}
+
+#root {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 100px auto;
+}
+
+@media (max-width: 390px){
+    #root{
+        flex-direction: column;
+        align-items: center;
+        width: 85%;
+    }
+}
